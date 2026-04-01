@@ -18,7 +18,7 @@ My focus goes beyond code: I build **products**, **platforms**, and **scalable s
 ## ⚙️ Core Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,js,ts,react,vue,angular,nodejs,mysql,mongodb,docker,aws,azure,gcp" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,js,ts,react,vue,angular,nodejs,mysql,mongodb,docker,aws,azure" />
 </p>
 
 ---
@@ -69,8 +69,8 @@ Freelancer marketplace inspired by platforms like Workana.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Randomizando3&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Randomizando3&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Randomizando3&theme=tokyonight" />
+  <img height="160" src="https://streak-stats.demolab.com?user=Randomizando3&theme=tokyonight&hide_border=true&locale=pt_BR" />
 </p>
 
 ---
@@ -101,5 +101,6 @@ Architecture   Scalable systems, modular backend, APIs
 Frontend       Modern UI (React, Vue, Angular)
 Backend        .NET, PHP, Node.js
 Data           SQL / NoSQL
-Cloud          AWS, Azure, GCP
+Cloud          AWS, Azure
 Leadership     Tech leadership, mentoring, delivery
+```
