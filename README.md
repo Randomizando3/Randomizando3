@@ -69,8 +69,7 @@ Freelancer marketplace inspired by platforms like Workana.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Randomizando3&theme=tokyonight" />
-  <img height="160" src="https://streak-stats.demolab.com?user=Randomizando3&theme=tokyonight&hide_border=true&locale=pt_BR" />
+  <img height="180" src="assets/github-stats.svg" />
 </p>
 
 ---
@@ -78,7 +77,7 @@ Freelancer marketplace inspired by platforms like Workana.
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Randomizando3&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="assets/github-activity.svg" />
 </p>
 
 ---

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="220" viewBox="0 0 840 220" role="img" aria-label="GitHub metrics for Randomizando3">
+  <style>
+    .title { font: 700 24px 'Segoe UI', Ubuntu, sans-serif; }
+    text { font-family: 'Segoe UI', Ubuntu, sans-serif; }
+  </style>
+  <rect width="840" height="220" rx="8" fill="#1a1b27"/>
+  <text x="28" y="42" class="title" fill="#70a5fd">GitHub Metrics</text>
+  <text x="28" y="68" fill="#a9b1d6" font-size="13">Private-aware summary generated from authenticated GitHub data</text>
+  
+    <g transform="translate(32, 120)">
+      <text x="0" y="0" fill="#a9b1d6" font-size="14">2026 commits</text>
+      <text x="0" y="42" fill="#38bdae" font-size="34" font-weight="700">570</text>
+    </g>
+  
+    <g transform="translate(230, 120)">
+      <text x="0" y="0" fill="#a9b1d6" font-size="14">Last 31 days</text>
+      <text x="0" y="42" fill="#bf91f3" font-size="34" font-weight="700">59</text>
+    </g>
+  
+    <g transform="translate(420, 120)">
+      <text x="0" y="0" fill="#a9b1d6" font-size="14">Current streak</text>
+      <text x="0" y="42" fill="#70a5fd" font-size="34" font-weight="700">1d</text>
+    </g>
+  
+    <g transform="translate(610, 120)">
+      <text x="0" y="0" fill="#a9b1d6" font-size="14">Repos</text>
+      <text x="0" y="42" fill="#38bdae" font-size="34" font-weight="700">44</text>
+    </g>
+  <text x="610" y="184" fill="#a9b1d6" font-size="13">27 public / 17 private</text>
+  <text x="28" y="204" fill="#565f89" font-size="12">Updated 2026-07-13 20:49 UTC</text>
+</svg>
