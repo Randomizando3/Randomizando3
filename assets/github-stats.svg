@@ -14,7 +14,7 @@
   
     <g transform="translate(230, 120)">
       <text x="0" y="0" fill="#a9b1d6" font-size="14">Last 31 days</text>
-      <text x="0" y="42" fill="#bf91f3" font-size="34" font-weight="700">105</text>
+      <text x="0" y="42" fill="#bf91f3" font-size="34" font-weight="700">102</text>
     </g>
   
     <g transform="translate(420, 120)">
@@ -27,5 +27,5 @@
       <text x="0" y="42" fill="#38bdae" font-size="34" font-weight="700">47</text>
     </g>
   <text x="610" y="184" fill="#a9b1d6" font-size="13">27 public / 20 private</text>
-  <text x="28" y="204" fill="#565f89" font-size="12">Updated 2026-07-23 12:02 UTC</text>
+  <text x="28" y="204" fill="#565f89" font-size="12">Updated 2026-07-24 11:55 UTC</text>
 </svg>
